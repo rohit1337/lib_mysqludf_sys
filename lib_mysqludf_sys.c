@@ -41,7 +41,6 @@ typedef long long longlong;
 #include <my_sys.h>
 #endif
 #include <mysql.h>
-#include <m_ctype.h>
 #include <m_string.h>
 #include <stdlib.h>
 
